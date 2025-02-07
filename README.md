@@ -12,7 +12,7 @@ The **Bus Reservation System** is a software solution designed to digitalize and
 ## Technologies Used
 - **Programming Language**: C++
 - **Concepts Applied**: Object-Oriented Programming (OOP)
-- **IDE**: Dev-C++
+- **IDE**: Dev C++
 
 ## Functionalities
 The Bus Reservation System is designed to provide the following functionalities:
